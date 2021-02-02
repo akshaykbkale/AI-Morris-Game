@@ -19,8 +19,7 @@ AI player for Morris Game was built as part of college project.
 #### Technologies
 
 -  Language: Java
--  Database : MySql(open source)
--  FrameWorks and Libraries : JavaFx, JDBC
+
 
 [Back To The Top](#ai-morris-game)
 
@@ -38,10 +37,7 @@ AI player for Morris Game was built as part of college project.
 ---
 
 ## References
-
-- JavaFx SDK[https://gluonhq.com/products/javafx/]
 - Java JDK [https://www.oracle.com/java/]
-- JDBC Connection[https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html]
 - Eclipse Ide[https://www.eclipse.org/ide/]
 
 ## License
